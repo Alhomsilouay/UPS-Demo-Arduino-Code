@@ -1,2 +1,3 @@
 # UPS-Demo-Arduino-Code
-The development of laboratory prototype for UPS (pure sine wave inverter + Charger) code 
+This code is get un idea about the development of laboratory prototype for UPS (pure sine wave inverter + Charger) 
+
